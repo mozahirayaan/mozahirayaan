@@ -6,106 +6,86 @@ Welcome to my GitHub! I'm a **B.Tech Computer Engineering student at DTU (2026)*
 
 ## 🧠 Tech Stack & Tools
 
-### 🖥️ Frontend
-- **React.js** – Component-based, fast UIs
-- **Next.js** – Server-side rendering & static site generation
-- **Tailwind CSS** – Utility-first responsive styling
-- **Chrome Extension API** – For creating browser-integrated tools
+### 👨‍💻 Languages & Frameworks
 
-### 🌐 Backend
-- **Node.js + Express.js** – REST APIs, routing, and middleware
-- **Socket.IO** – Real-time communication (chat, notifications)
-- **Passport.js** – Authentication (Google OAuth2, local strategy)
-- **JWT** – Secure token-based user authentication
-- **Multer** – File uploads
-- **Nodemailer** – Email verification, password resets
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
 
-### 🛢️ Database
-- **MongoDB + Mongoose** – Document modeling, flexible schemas
+### 🛠️ Tools & Services
 
-### 🌍 Deployment & Tools
-- **Render** – Hosting for backend services
-- **Vercel** – Hosting frontend (Next.js) apps
-- **GitHub Actions** – CI/CD pipelines
-- **Postman** – API testing
-- **dotenv** – Environment variable management
-
----
-
-## 🔥 Featured Projects
-
-### 🩺 Telemedicine Web App
-
-> Real-time video consultation platform for patients and doctors.
-
-- **Features**: Patient-doctor login, appointment booking, email confirmations, Jitsi-based video calls
-- **Auth**: Passport.js (Local Strategy), Session storage in MongoDB
-- **Video Calls**: Jitsi Meet Integration (JaaS SDK)
-- **Emailing**: Nodemailer for confirmations
-- **Stack**: React, Tailwind, Node.js, Express.js, MongoDB, Passport.js, Jitsi, Render
-
-🔗 _[Live demo coming soon]_  
-📂 _[Private repo available on request]_
+<p align="left">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nodemailer-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jitsi-0082FC?style=for-the-badge&logo=meetup&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Passport.js-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
-### 📌 LeetCode / GFG Tracker (Chrome Extension + Web Dashboard)
+## 📌 Featured Projects
 
-> Save coding problems with notes, difficulty tags, and sync them to your account.
+### 🩺 Telemedicine Web App  
+> Real-time video consultation platform for patients and doctors
 
-- **Frontend**: React + Tailwind dashboard
-- **Chrome Extension**: Injected script extracts current tab info and problem slug
-- **Backend**: Express.js REST API with MongoDB
-- **Auth**: Google OAuth2 (Passport.js) + Sessions
-- **Features**:
-  - Save problems from LeetCode, GFG
-  - Add difficulty, tags, notes
-  - Categorize and search problems in dashboard
-- **Database**: MongoDB schema to track problems per user
-
-🔗 _[Live demo coming soon]_  
-📂 _[Frontend + Extension + Backend on GitHub]_
+- Appointment booking, Google-auth-based login, Jitsi video calls
+- Email confirmations with Nodemailer
+- MongoDB sessions, Passport Local Strategy
+- 🛠️ **React, Tailwind, Express, Jitsi Meet API, MongoDB**
 
 ---
 
-### 💬 Real-Time Chat App
+### 📎 Chrome Extension: Coding Problem Saver  
+> Save & organize LeetCode/GFG problems with tags, notes
 
-> Lightweight, real-time chatroom with authentication and message history.
-
-- **Frontend**: React + Tailwind
-- **Backend**: Node.js + Express + Socket.IO
-- **Features**:
-  - JWT login
-  - Real-time private & public messaging
-  - MongoDB message storage
-  - Online/offline status with Socket.IO
-
-🔗 _[In progress — looking to add Next.js & scalable group chat]_  
-📂 _[Repo: Coming soon]_
+- Auth: Google OAuth (Passport.js)
+- Extension extracts slugs + saves to backend
+- Full dashboard to view, search, filter problems
+- 🛠️ **Chrome Extension API, React, MongoDB, Express, Vite**
 
 ---
 
-## 📚 Current Interests
+### 💬 Real-Time Chat App  
+> Lightweight socket-based messaging with user login
 
-- 🌐 Full-stack SaaS using Next.js + MongoDB + Auth
-- 🔐 Secure, scalable OAuth/JWT strategies
-- 🤖 Exploring basic machine learning
-- 📊 Dashboards and productivity tools for developers
-- 🧠 Competitive programming & algorithmic problem solving
-
----
-
-## 📈 GitHub Stats
-
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaanhere&show_icons=true&theme=tokyonight)
+- Socket.IO powered real-time public & private messages
+- JWT Authentication
+- User status (online/offline), Message history
+- 🛠️ **React, Express, Socket.IO, MongoDB, JWT**
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Currently Exploring
 
-- 🔗 [LinkedIn](https://linkedin.com/in/ayaanhere)
-- 🌐 [Portfolio](https://ayaan.vercel.app)
-- 📬 Email: ayaan.dev.contact@gmail.com *(replace if needed)*
+- SaaS-style full-stack apps with Next.js
+- OAuth & secure session-based auth
+- ML basics & data visualization
+- Developer productivity tools (custom dashboards, extensions)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaanhere&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayaan-mozahir-99b557255/)
+- 📬 Email: ayaanmozahir@gmail.com
 
 ---
 
