@@ -77,7 +77,7 @@ Welcome to my GitHub! I'm a **B.Tech Computer Engineering student at DTU (2026)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaanhere&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mozahirayaan&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
